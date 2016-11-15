@@ -5,3 +5,6 @@
 #  그래서, 모듈을 한번 만들어 보자.
 def myadd(a,b):
     return  a+b
+
+def mysub(a,b):
+    return  a-b
